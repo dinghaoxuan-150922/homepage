@@ -1,20 +1,13 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/丁皓轩-github-blue?logo=github)](https://github.com/dinghaoxuan-150922)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+Hello,我是丁皓轩,很高兴和你见面
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### 电子邮箱  
+<code>dhx_150922@qq.com</code>  
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+#### 学校  
+**义乌市商城学校**
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+#### 兴趣爱好 
+口风琴,html,github,c++,数学
